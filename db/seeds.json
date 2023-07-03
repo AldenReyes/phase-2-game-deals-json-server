@@ -22,5 +22,9 @@
       "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/capsule_sm_120.jpg?t=1602794480",
       "id": "93503"
     }
-  ]
+  ],
+  "sort": [{
+    "id":1,
+    "type":"Deal Rating"
+  }]
 }
