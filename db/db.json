@@ -1,9 +1,32 @@
 {
-  "saved": [],
-  "sort": [
-    {
-      "id": 1,
-      "type": "Deal Rating"
+  "saved": [
+   {
+      "internalName": "BIOSHOCKINFINITE",
+      "title": "BioShock Infinite",
+      "metacriticLink": "/game/pc/bioshock-infinite",
+      "dealID": "X8sebHhbc1Ga0dTkgg59WgyM506af9oNZZJLU9uSrX8%3D",
+      "storeID": "1",
+      "gameID": "93503",
+      "salePrice": "7.49",
+      "normalPrice": "29.99",
+      "isOnSale": "1",
+      "savings": "75.025008",
+      "metacriticScore": "94",
+      "steamRatingText": "Very Positive",
+      "steamRatingPercent": "93",
+      "steamRatingCount": "98620",
+      "steamAppID": "8870",
+      "releaseDate": 1364169600,
+      "lastChange": 1688061713,
+      "dealRating": "9.1",
+      "thumb": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/capsule_sm_120.jpg?t=1602794480",
+      "id": "93503"
     }
-  ]
+  ],
+  "sort": [{
+    "id":1,
+    "type":"Deal Rating"
+  }],
+  "comments": [{
+  }]
 }
